@@ -1,0 +1,10 @@
+
+<view>
+
+  <image class="banner" src=""></image>
+
+  <view>
+    <image class="avatar"></image>
+  </view>
+
+</view>

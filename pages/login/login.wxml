@@ -1,0 +1,23 @@
+<!-- <form >
+  <view class="container">
+      <view class="card-details">
+          <view class="section-title">Please fill in student ID to view mmore</view>
+          <input class="input" name="student_number" placeholder="Fill in student ID here" placehoder-class="center">
+          <button class="login-btn"> Log me in!</button>
+      </view>
+  </view>
+</form> -->
+
+
+<form>  
+<view class="container">
+  <image class="background"></image>
+  <view class="card-details">
+   <view class="section-title">Please fill in student ID to view more 📖 </view>
+    <input class="input" auto-focus bindblur="inputStudent" name="student_number" placeholder="Fill in student ID here" placeholder-class="center"/>
+    <button class="login-btn" open-type="getUserInfo" bindgetuserinfo="userInfoHandler">Log me in!</button>
+  </view>
+</view>
+</form> 
+
+

@@ -1,0 +1,39 @@
+.card{
+  margin: 10px;
+  overflow: hidden;
+  background: #FFFFFF;
+  border-radius: 5px;
+  border: thin solid rgb(245, 190, 81, 0.5);
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #34303D;
+}
+
+.article-image {
+  height: 240rpx;
+  width: 360rpx;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 10rpx;
+  margin-left:10rpx;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: 5px;
+}
+
+
+.description{
+  padding:10rpx;
+}
+
+.title {
+  font-size: 32rpx;
+
+}
+
+.author{
+  font-size:24rpx;
+  padding-top:20rpx;
+}
+

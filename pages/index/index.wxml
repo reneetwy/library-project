@@ -1,0 +1,27 @@
+<view class="card">
+  <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1836677448,493735437&fm=26&gp=0.jpg" class="article-image"></image>
+  <view class="description">
+    <view class="title">What Is Data Science?</view>
+    <view class="author">by Renee Tang</view>
+  </view>
+</view>
+
+
+<view class="card">
+  <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1395649325,897568095&fm=26&gp=0.jpg" class="article-image"></image>
+  <view class="description">
+    <view class="title">How to develop WeChat MP?</view>
+    <view class="author">by Xiaohu Pei</view>
+  </view>
+</view>
+
+
+
+<view class="card">
+  <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3702114864,2886203381&fm=26&gp=0.jpg" class="article-image"></image>
+  <view class="description">
+    <view class="title">How to Play Drinking Game through AI?</view>
+    <view class="author">by Renee Tang</view>
+  </view>
+</view>
+
