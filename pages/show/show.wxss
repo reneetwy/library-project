@@ -1,1 +1,31 @@
-/* pages/show/show.wxss */
+.title {
+  font-size: 36rpx;
+  text-align:center;
+  margin-top: 96rpx;
+
+}
+
+.author{
+  font-size:32rpx;
+  padding-top:20rpx;
+  color: grey;
+  text-align:center
+  
+}
+
+.card{
+  margin-left: 36rpx;
+  margin-right: 36rpx;
+  margin-top:96rpx;
+  margin-bottom:96rpx;
+  border:solid #F5BE51;
+  border-radius: 10rpx;
+}
+
+.content{
+  margin-top:96rpx;
+  margin-bottom:96rpx;
+  margin-left: 24rpx;
+  margin-right: 24rpx;
+
+}
