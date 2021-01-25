@@ -17,14 +17,25 @@
   margin-top: 360rpx;
   margin-right: 75rpx;
   position: absolute;
+}
 
+.name{
+  color: #34303d;
+  font-size: 40rpx;
+  font-weight: 400;
+  margin-left: 215rpx;
+  margin-top: 560rpx;
+  text-align: center;
+  position: absolute;
 }
 
 .login-btn{
-  color:white; 
+  color: #34303d; 
   font-weight: 400;
   margin-left: 0;
   margin-right: 0;
 
 }
+
+
 
