@@ -1,15 +1,15 @@
 <view class="banner">
   <view wx:if="{{user}}">
     <view class="user-box">
-      <image class="avatar" src="{{user.avatar}}"></image>
-      <view class="name">{{user.nickname}}</view>
+      <image class="avatar" src="{{user.avatarUrl}}"></image>
+      <view class="name">{{user.nickName}}</view>
     </view>
   </view>
 
   <view wx:else>
     <view class="user-box">
     <image class= "avatar" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3701867600,1979122419&fm=26&gp=0.jpg"></image>
-    <button class="login-btn" type ="primary" bindgetuserinfo="login">Login</button>
+    <button class="login-btn" open-type="getUserInfo" bindgetuserinfo="login">Login</button>
   </view>
   </view>
 </view>
