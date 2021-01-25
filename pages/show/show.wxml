@@ -1,19 +1,16 @@
-<text>pages/show/show.wxml</text>
-
-<!-- <view>
+<view>
   <view class="title">What Is Data Science</view>
   <view class="author">by Renee Tang</view>
 
-  <view class="content">
-    <text>Data Science Produces Insights
+  <view class="card">
+    <view class="content">
+        <text>Data Science Produces Insights
 
-Data science is distinguished from the other two fields because its goal is an especially human one: to gain insight and understanding. Again, not everything that produces insights qualifies as data science (the classic definition of data science is that it involves a combination of statistics, software engineering, and domain expertise). But we can use this definition to distinguish it from ML and AI.
+    Data science is distinguished from the other two fields because its goal is an especially human one: to gain insight and understanding. Again, not everything that produces insights qualifies as data science (the classic definition of data science is that it involves a combination of statistics, software engineering, and domain expertise). But we can use this definition to distinguish it from ML and AI.
 
-The main distinction is that in data science there is always a human in the loop: someone is understanding the insight, seeing the figure, or benefitting from the conclusion. It would make no sense to say “Our chess-playing algorithm uses data science to choose its next move,” or “Google Maps uses data science to recommend driving directions.”
-</text>
+    The main distinction is that in data science there is always a human in the loop: someone is understanding the insight, seeing the figure, or benefitting from the conclusion. It would make no sense to say “Our chess-playing algorithm uses data science to choose its next move,” or “Google Maps uses data science to recommend driving directions.”
+    </text>
+    </view>
   </view>
+</view>
 
-
-
-
-</view> -->

@@ -1,1 +1,30 @@
-/* pages/user/user.wxss */
+.banner{
+  background-image: url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2844569115,1128205930&fm=26&gp=0.jpg');
+  padding: 105rpx;
+  background-repeat: no-repeat;
+  margin-bottom: 35rpx;
+  height: 300rpx;
+  width: 600rpx;
+}
+
+.avatar {
+  height: 150rpx;
+  width: 150rpx;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: 200rpx;
+  margin-bottom: 20rpx;
+  margin-top: 360rpx;
+  margin-right: 75rpx;
+  position: absolute;
+
+}
+
+.login-btn{
+  color:white; 
+  font-weight: 400;
+  margin-left: 0;
+  margin-right: 0;
+
+}
+
